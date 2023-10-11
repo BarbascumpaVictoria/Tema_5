@@ -7,7 +7,7 @@ public class Main {
         while(i <= 1000) {
             i++;
             if (( i%5 == 0)||(i%6 == 0)){
-                System.out.println(i);
+                System.out.print( i + " ");
                 }
             }
         }
